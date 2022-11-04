@@ -1,0 +1,25 @@
+html{
+    height: 100%;
+}
+body {
+    height: 100%;
+    font-family: 'Comic Sans', Courier, monopsace;
+    font-weight: bold;
+    text-align: center;
+    font-size: large;
+    
+    background: linear-gradient( rgb(29, 32, 114), rgb(86, 71, 255));
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.timer {
+    font-size: 60 pt;
+    text-align: center;
+}
+#score{
+    font-size: 80 pt;
+}
+#title{
+    font-size: xx-large;
+    margin-bottom: 45px;
+}
